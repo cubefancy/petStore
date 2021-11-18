@@ -57,7 +57,7 @@ export default {
   background: #F2921D;
   color: #000;
   padding: 10px 30px;
-  height: 80px;
+  height: wrap;
 }
 .info h1 {
   font-size: 16px;
